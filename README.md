@@ -1,7 +1,7 @@
 ### OLÁ! ME CHAMO RAFAEL SANTOS COELHO 👨🏾‍💻
 
 - 🔭 Iniciando na aréa de desenvolvimento de sistemas
-- 👨🏽‍💻 Estudando Portugol e linguagem C
+- 👨🏽‍💻 Estudando Java e linguagem C
 
  <img halign="center" alt="RafaelCoelho31" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <div>
